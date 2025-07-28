@@ -76,10 +76,10 @@ export const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <address className="not-italic text-gray-400">
-              <p className="mb-2">123 Financial Street, Suite 456</p>
-              <p className="mb-2">New York, NY 10001</p>
-              <p className="mb-2">Phone: (555) 123-4567</p>
-              <p>Email: info@lyndabookkeeping.com</p>
+              <p className="mb-2">1190 Mission Street</p>
+              <p className="mb-2">San Francisco, CA 94103</p>
+              <p className="mb-2">Phone: (415) 368-6712</p>
+              <p>Email: lynda.bookkeeping@gmail.com</p>
             </address>
           </div>
         </div>
