@@ -10,7 +10,7 @@ export const Header = () => {
           </h1> */}
            <div className="flex items-center">
           <img
-            src="lynda-bookkeeping/blue-new-logo.png"
+            src="/lynda-bookkeeping/blue-new-logo.png"
             alt="Lynda Bookkeeping"
             className="h-20"
           />
