@@ -20,26 +20,28 @@ export const Contact = () => {
               <div className="space-y-4 mb-8">
                 <div className="flex items-start">
                   <MapPin className="w-5 h-5 text-blue-600 mr-3 mt-1" />
+                   <div>
+            <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
                   <div>
                     <p className="font-medium text-gray-900">Our Office</p>
                     <p className="text-gray-600">
-                      123 Financial Street, Suite 456
+                      1190 Mission Street
                     </p>
-                    <p className="text-gray-600">New York, NY 10001</p>
+                    <p className="text-gray-600">San Francisco, CA 94103</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <Phone className="w-5 h-5 text-blue-600 mr-3 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Phone</p>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">(415) 368-6712</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <Mail className="w-5 h-5 text-blue-600 mr-3 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Email</p>
-                    <p className="text-gray-600">info@lyndabookkeeping.com</p>
+                    <p className="text-gray-600">lynda.bookkeeping@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
