@@ -21,7 +21,8 @@ export const Contact = () => {
                 <div className="flex items-start">
                   <MapPin className="w-5 h-5 text-blue-600 mr-3 mt-1" />
                    <div>
-            <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
+                    <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
+                  </div>
                   <div>
                     <p className="font-medium text-gray-900">Our Office</p>
                     <p className="text-gray-600">
