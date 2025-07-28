@@ -12,7 +12,7 @@ export const Header = () => {
           <img
             src="https://firebasestorage.googleapis.com/v0/b/smart-lead-agent-9f41e.appspot.com/o/blue-new-logo.png?alt=media&token=b8416f43-9b75-4860-943f-1ae8d19f7d21"
             alt="Lynda Bookkeeping"
-            className="h-20"
+            className="h-12 sm:h-16 md:h-20 lg:h-24"
           />
         </div>
         </div>
