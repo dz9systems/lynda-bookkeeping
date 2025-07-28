@@ -5,9 +5,16 @@ export const Header = () => {
   return <header className="sticky top-0 z-50 bg-white shadow-sm">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <h1 className="text-2xl font-bold text-blue-800">
+          {/* <h1 className="text-2xl font-bold text-blue-800">
             Lynda Bookkeeping
-          </h1>
+          </h1> */}
+           <div className="flex items-center">
+          <img
+            src="lynda-bookkeeping/blue-new-logo.png"
+            alt="Lynda Bookkeeping"
+            className="h-20"
+          />
+        </div>
         </div>
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-8">
