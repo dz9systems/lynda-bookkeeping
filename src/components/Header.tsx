@@ -10,7 +10,7 @@ export const Header = () => {
           </h1> */}
            <div className="flex items-center">
           <img
-            src="/blue-new-logo.png"
+            src="https://firebasestorage.googleapis.com/v0/b/smart-lead-agent-9f41e.appspot.com/o/blue-new-logo.png?alt=media&token=b8416f43-9b75-4860-943f-1ae8d19f7d21"
             alt="Lynda Bookkeeping"
             className="h-20"
           />
