@@ -48,9 +48,9 @@ export const BookOnline = () => {
                     <span className="font-medium">{service.price}</span>
                   </div>
                 </div>
-                <button className="bg-gray-600 hover:bg-gray-700 text-white py-2 px-6 rounded transition-colors w-full">
+               <button className="bg-[#2d63eb] hover:bg-[#2150c4] text-white py-2 px-6 rounded transition-colors w-full">
                   Book Now
-                </button>
+               </button>
               </div>
             </div>)}
         </div>
