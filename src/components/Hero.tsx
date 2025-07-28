@@ -9,7 +9,12 @@ export const Hero = () => {
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-2">
           Lynda Bookkeeping
         </h1>
-        <h2 className="text-2xl md:text-3xl font-medium mb-8 text-blue-300">
+       <h2
+          className="text-2xl md:text-3xl font-semibold mb-8 text-white"
+          style={{
+            textShadow: '0 2px 4px rgba(0,0,0,0.5)',
+          }}
+        >
           The Leading Bookkeeping Service in San Francisco
         </h2>
         <div className="flex flex-col sm:flex-row gap-4">
